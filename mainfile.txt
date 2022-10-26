@@ -1,2 +1,0 @@
-This file is for:
-MAIN Branch of the git repository
